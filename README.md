@@ -1,1 +1,1 @@
-Interactive TO-do app with add and edit functionality
+Interactive TO-do app with add and delete functionality
